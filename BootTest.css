@@ -1,0 +1,54 @@
+
+
+.navbar{
+    background-color: brown;
+    color: cornsilk;
+    text-align: left;
+    
+}
+.link{
+    word-spacing: 20px;
+    list-style-type: none;
+    }
+.link p{
+    word-spacing: normal;
+    float: left;
+    padding-right: 20px;
+    text-align: left;
+}
+.link2{
+    color: cornsilk;
+    text-align: left;
+}
+.link2:hover{
+    color: darkseagreen;
+}
+.img{
+    padding: 20px;
+    float: left;
+    border-style: groove;
+}     
+@media (min-width: 576px){
+.card-title{
+    border-style: solid;
+    border-width: 3px;
+    margin: 10px;
+    
+    }
+.card-title p{ 
+    padding-top: 20px;
+
+}   
+}
+.row{
+    margin: 30px;
+   
+}
+.carousel-inner {
+    height: 370px;
+    overflow: hidden;
+    width: 100%;
+    }
+.carousel-inner img {
+    width: 100%;
+    }
