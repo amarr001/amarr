@@ -24,11 +24,10 @@ First, you will use the Bootstrap CSS Framework to recreate your portfolio. How 
 
 ## The project
 
-*The three html files follow a basic structure: <head>, <header> and <body>. Inside the head I added Bootstrap plugins and referenced my css stylesheets. I also have a stylesheet for each html file, I am not sure if this is the most efficient way to do it. 
+* The three html files follow a basic structure: <head>, <header> and <body>. Inside the head I added Bootstrap plugins and referenced my css stylesheets. I also have a stylesheet for each html file, I am not sure if this is the most efficient way to do it. 
 
-I used a responsive navbar in the head with a toggler, I achieved that by using bootstrap class "navbar-expand-lg" and data toggle: collapse. The way I got a responsive layout was to apply media query in the body using max-width/width:100% to avoid a horizontal scrollbar appearing in small screens. I also used Bootstrap grid system to have full control over how the items will behave as the screen changes to different sizes. 
-I
-am not completely happy with the outcome of the project, specially regarding the design of it, but I intend to keep pushing and trying to improve this portfolio further. 
+* I used a responsive navbar in the head with a toggler, I achieved that by using bootstrap class "navbar-expand-lg" and data toggle: collapse. The way I got a responsive layout was to apply media query in the body using max-width/width:100% to avoid a horizontal scrollbar appearing in small screens. I also used Bootstrap grid system to have full control over how the items will behave as the screen changes to different sizes. 
+* I am not completely happy with the outcome of the project, specially regarding the design of it, but I intend to keep pushing and trying to improve this portfolio further. 
 
 
 
