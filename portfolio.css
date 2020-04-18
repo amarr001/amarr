@@ -16,40 +16,48 @@ body {
 
 .hero {
     width: 100%;
-    height: 100%;
     min-width: 100%;
-    min-height: 100vh;
+    min-height: 100%;
     position: relative;
 }
 
 .hero::before {
     background-image: url(https://www.jncreative.com/wp-content/uploads/2013/09/web-design-portfolio-background.jpg);
-    background-size: cover;
+    background-repeat: repeat;
+    background-size: contain;
     content: "";
-    display: block;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     z-index: -2;
-    opacity: 0.4;
+    opacity: 0.3;
 }
 
 
-.flex-center {
+/*.flex-center {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: center;
 }
+*/
 
-body{
-    background-color: lightgray;
+
+.title{
+    margin-top: 100px;
+    
+}
+.media{
+    margin: 30px;
+    margin-left: 20px;
 }
 
+
+
  
- 
+
 
  
  
